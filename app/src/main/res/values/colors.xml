@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="warnateks">#FF9800</color>
+    <color name="blackcolor">#656464</color>
+    <color name="bgtopheader">#BD2020</color>
+    <color name="bgcolor">#8BC34A</color>
+    <color name="bgcolordetail">#8BC34A</color>
+
+</resources>
